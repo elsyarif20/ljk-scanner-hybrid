@@ -1,0 +1,166 @@
+525 INFO: PyInstaller: 6.16.0, contrib hooks: 2025.8
+525 INFO: Python: 3.12.10
+651 INFO: Platform: Windows-11-10.0.26100-SP0
+651 INFO: Python environment: C:\Users\liyaz\AppData\Local\Programs\Python\Python312
+655 INFO: wrote C:\LJK SCANNER HYBRID\ljk_scanner.spec
+659 INFO: Module search paths (PYTHONPATH):
+['C:\\Users\\liyaz\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\pyinstaller.exe',
+ 'C:\\Users\\liyaz\\AppData\\Local\\Programs\\Python\\Python312\\python312.zip',
+ 'C:\\Users\\liyaz\\AppData\\Local\\Programs\\Python\\Python312\\DLLs',
+ 'C:\\Users\\liyaz\\AppData\\Local\\Programs\\Python\\Python312\\Lib',
+ 'C:\\Users\\liyaz\\AppData\\Local\\Programs\\Python\\Python312',
+ 'C:\\Users\\liyaz\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages',
+ 'C:\\Users\\liyaz\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\win32',
+ 'C:\\Users\\liyaz\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\win32\\lib',
+ 'C:\\Users\\liyaz\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\Pythonwin',
+ 'C:\\Users\\liyaz\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor',
+ 'C:\\LJK SCANNER HYBRID']
+521 INFO: deps: Successfully imported "kivy_deps.angle" 0.4.0
+537 INFO: Logger: Record log in C:\Users\liyaz\.kivy\logs\kivy_25-09-17_42.txt
+[INFO   ] [Logger      ] Record log in C:\Users\liyaz\.kivy\logs\kivy_25-09-17_42.txt
+[INFO   ] [deps        ] Successfully imported "kivy_deps.angle" 0.4.0
+537 INFO: deps: Successfully imported "kivy_deps.glew" 0.3.1
+[INFO   ] [deps        ] Successfully imported "kivy_deps.glew" 0.3.1
+537 INFO: deps: Successfully imported "kivy_deps.sdl2" 0.8.0
+[INFO   ] [deps        ] Successfully imported "kivy_deps.sdl2" 0.8.0
+537 INFO: Kivy: v2.3.1
+[INFO   ] [Kivy        ] v2.3.1
+537 INFO: Kivy: Installed at "C:\Users\liyaz\AppData\Local\Programs\Python\Python312\Lib\site-packages\kivy\__init__.py"
+[INFO   ] [Kivy        ] Installed at "C:\Users\liyaz\AppData\Local\Programs\Python\Python312\Lib\site-packages\kivy\__init__.py"
+537 INFO: Python: v3.12.10 (tags/v3.12.10:0cc8128, Apr  8 2025, 12:21:36) [MSC v.1943 64 bit (AMD64)]
+[INFO   ] [Python      ] v3.12.10 (tags/v3.12.10:0cc8128, Apr  8 2025, 12:21:36) [MSC v.1943 64 bit (AMD64)]
+537 INFO: Python: Interpreter at "C:\Users\liyaz\AppData\Local\Programs\Python\Python312\python.exe"
+[INFO   ] [Python      ] Interpreter at "C:\Users\liyaz\AppData\Local\Programs\Python\Python312\python.exe"
+537 INFO: Logger: Purge log fired. Processing...
+[INFO   ] [Logger      ] Purge log fired. Processing...
+537 INFO: Logger: Purge finished!
+[INFO   ] [Logger      ] Purge finished!
+553 INFO: KivyMD: 1.2.0, git-Unknown, 2025-09-17 (installed at "C:\Users\liyaz\AppData\Local\Programs\Python\Python312\Lib\site-packages\kivymd\__init__.py")
+[INFO   ] [KivyMD      ] 1.2.0, git-Unknown, 2025-09-17 (installed at "C:\Users\liyaz\AppData\Local\Programs\Python\Python312\Lib\site-packages\kivymd\__init__.py")
+553 WARNING: KivyMD: Version 1.2.0 is deprecated and is no longer supported. Use KivyMD version 2.0.0 from the master branch (pip install https://github.com/kivymd/KivyMD/archive/master.zip)
+[WARNING] [KivyMD      ] Version 1.2.0 is deprecated and is no longer supported. Use KivyMD version 2.0.0 from the master branch (pip install https://github.com/kivymd/KivyMD/archive/master.zip)
+553 INFO: Factory: 195 symbols loaded
+[INFO   ] [Factory     ] 195 symbols loaded
+779 INFO: Image: Providers: img_tex, img_dds, img_sdl2, img_pil (img_ffpyplayer ignored)
+[INFO   ] [Image       ] Providers: img_tex, img_dds, img_sdl2, img_pil (img_ffpyplayer ignored)
+808 INFO: Text: Provider: sdl2
+[INFO   ] [Text        ] Provider: sdl2
+1047 DEBUG: discover_hook_directories: Hook directories: [('C:\\Users\\liyaz\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\kivymd\\tools\\packaging\\pyinstaller', 0), ('C:\\Users\\liyaz\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\_pyinstaller', 0), ('C:\\Users\\liyaz\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\stdhooks', -1000), ('C:\\Users\\liyaz\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\_pyinstaller_hooks_contrib', -1000)]
+[DEBUG  ] [discover_hook_directories] Hook directories: [('C:\\Users\\liyaz\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\kivymd\\tools\\packaging\\pyinstaller', 0), ('C:\\Users\\liyaz\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\_pyinstaller', 0), ('C:\\Users\\liyaz\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\stdhooks', -1000), ('C:\\Users\\liyaz\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\_pyinstaller_hooks_contrib', -1000)]
+2098 INFO: checking Analysis
+2098 INFO: Building Analysis because Analysis-00.toc is non existent
+2098 INFO: Looking for Python shared library...
+2098 INFO: Using Python shared library: C:\Users\liyaz\AppData\Local\Programs\Python\Python312\python312.dll
+2098 INFO: Running Analysis Analysis-00.toc
+2098 INFO: Target bytecode optimization level: 0
+2098 INFO: Initializing module dependency graph...
+2102 INFO: Initializing module graph hook caches...
+2191 INFO: Analyzing modules for base_library.zip ...
+4680 INFO: Processing standard module hook 'hook-encodings.py' from 'C:\\Users\\liyaz\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks'
+6177 INFO: Processing standard module hook 'hook-heapq.py' from 'C:\\Users\\liyaz\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks'
+8417 INFO: Processing standard module hook 'hook-pickle.py' from 'C:\\Users\\liyaz\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks'
+11553 INFO: Caching module dependency graph...
+11649 INFO: Analyzing C:\LJK SCANNER HYBRID\ljk_scanner.py
+11728 INFO: Processing pre-find-module-path hook 'hook-tkinter.py' from 'C:\\Users\\liyaz\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks\\pre_find_module_path'
+11728 INFO: TclTkInfo: initializing cached Tcl/Tk info...
+12364 INFO: Processing standard module hook 'hook-_tkinter.py' from 'C:\\Users\\liyaz\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks'
+12538 INFO: Processing standard module hook 'hook-PIL.py' from 'C:\\Users\\liyaz\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks'
+12809 INFO: Processing standard module hook 'hook-PIL.Image.py' from 'C:\\Users\\liyaz\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks'
+13541 INFO: Processing standard module hook 'hook-numpy.py' from 'C:\\Users\\liyaz\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks'
+14629 INFO: Processing standard module hook 'hook-platform.py' from 'C:\\Users\\liyaz\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks'
+14995 INFO: Processing standard module hook 'hook-sysconfig.py' from 'C:\\Users\\liyaz\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks'
+17255 INFO: Processing standard module hook 'hook-difflib.py' from 'C:\\Users\\liyaz\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks'
+17829 INFO: Processing standard module hook 'hook-multiprocessing.util.py' from 'C:\\Users\\liyaz\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks'
+18037 INFO: Processing standard module hook 'hook-xml.py' from 'C:\\Users\\liyaz\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks'
+18623 INFO: Processing standard module hook 'hook-_ctypes.py' from 'C:\\Users\\liyaz\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks'
+21503 INFO: Processing pre-safe-import-module hook 'hook-typing_extensions.py' from 'C:\\Users\\liyaz\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks\\pre_safe_import_module'
+21519 INFO: SetuptoolsInfo: initializing cached setuptools info...
+28186 INFO: Processing standard module hook 'hook-charset_normalizer.py' from 'C:\\Users\\liyaz\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\stdhooks'
+29286 INFO: Processing standard module hook 'hook-xml.etree.cElementTree.py' from 'C:\\Users\\liyaz\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks'
+29674 INFO: Processing standard module hook 'hook-PIL.ImageFilter.py' from 'C:\\Users\\liyaz\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks'
+30233 INFO: Processing standard module hook 'hook-cv2.py' from 'C:\\Users\\liyaz\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\stdhooks'
+31001 INFO: Processing standard module hook 'hook-pandas.py' from 'C:\\Users\\liyaz\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks'
+35327 INFO: Processing standard module hook 'hook-pytz.py' from 'C:\\Users\\liyaz\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks'
+40427 INFO: Processing standard module hook 'hook-pyarrow.py' from 'C:\\Users\\liyaz\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\stdhooks'
+42338 INFO: Processing standard module hook 'hook-urllib3.py' from 'C:\\Users\\liyaz\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\stdhooks'
+44472 INFO: Processing standard module hook 'hook-certifi.py' from 'C:\\Users\\liyaz\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\stdhooks'
+48018 INFO: Processing standard module hook 'hook-pandas.io.formats.style.py' from 'C:\\Users\\liyaz\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks'
+52592 INFO: Processing standard module hook 'hook-pandas.plotting.py' from 'C:\\Users\\liyaz\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks'
+54468 INFO: Processing standard module hook 'hook-openpyxl.py' from 'C:\\Users\\liyaz\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\stdhooks'
+61954 INFO: Processing standard module hook 'hook-sqlite3.py' from 'C:\\Users\\liyaz\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks'
+62538 INFO: Processing standard module hook 'hook-pandas.io.clipboard.py' from 'C:\\Users\\liyaz\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks'
+63462 INFO: Processing standard module hook 'hook-dateutil.py' from 'C:\\Users\\liyaz\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\stdhooks'
+64005 INFO: Processing pre-safe-import-module hook 'hook-six.moves.py' from 'C:\\Users\\liyaz\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks\\pre_safe_import_module'
+68562 INFO: Processing standard module hook 'hook-xml.dom.domreg.py' from 'C:\\Users\\liyaz\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks'
+70782 INFO: Processing standard module hook 'hook-reportlab.lib.utils.py' from 'C:\\Users\\liyaz\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\stdhooks'
+71043 INFO: Processing standard module hook 'hook-reportlab.pdfbase._fontdata.py' from 'C:\\Users\\liyaz\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\stdhooks'
+77149 INFO: Processing module hooks (post-graph stage)...
+77388 INFO: Processing pre-safe-import-module hook 'hook-packaging.py' from 'C:\\Users\\liyaz\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks\\pre_safe_import_module'
+79873 INFO: Processing standard module hook 'hook-pkg_resources.py' from 'C:\\Users\\liyaz\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks'
+80671 INFO: Processing pre-safe-import-module hook 'hook-jaraco.text.py' from 'C:\\Users\\liyaz\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks\\pre_safe_import_module'
+80671 INFO: Setuptools: 'jaraco.text' appears to be a setuptools-vendored copy - creating alias to 'setuptools._vendor.jaraco.text'!
+80700 INFO: Processing standard module hook 'hook-setuptools.py' from 'C:\\Users\\liyaz\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks'
+80779 INFO: Processing pre-safe-import-module hook 'hook-distutils.py' from 'C:\\Users\\liyaz\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks\\pre_safe_import_module'
+80922 INFO: Processing pre-safe-import-module hook 'hook-jaraco.functools.py' from 'C:\\Users\\liyaz\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks\\pre_safe_import_module'
+80922 INFO: Setuptools: 'jaraco.functools' appears to be a setuptools-vendored copy - creating alias to 'setuptools._vendor.jaraco.functools'!
+80965 INFO: Processing pre-safe-import-module hook 'hook-more_itertools.py' from 'C:\\Users\\liyaz\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks\\pre_safe_import_module'
+80966 INFO: Setuptools: 'more_itertools' appears to be a setuptools-vendored copy - creating alias to 'setuptools._vendor.more_itertools'!
+82174 INFO: Processing pre-safe-import-module hook 'hook-importlib_metadata.py' from 'C:\\Users\\liyaz\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks\\pre_safe_import_module'
+82174 INFO: Setuptools: 'importlib_metadata' appears to be a setuptools-vendored copy - creating alias to 'setuptools._vendor.importlib_metadata'!
+82222 INFO: Processing standard module hook 'hook-setuptools._vendor.importlib_metadata.py' from 'C:\\Users\\liyaz\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks'
+82238 INFO: Processing pre-safe-import-module hook 'hook-zipp.py' from 'C:\\Users\\liyaz\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks\\pre_safe_import_module'
+82239 INFO: Setuptools: 'zipp' appears to be a setuptools-vendored copy - creating alias to 'setuptools._vendor.zipp'!
+83437 INFO: Processing pre-safe-import-module hook 'hook-tomli.py' from 'C:\\Users\\liyaz\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks\\pre_safe_import_module'
+83453 INFO: Setuptools: 'tomli' appears to be a setuptools-vendored copy - creating alias to 'setuptools._vendor.tomli'!
+85225 INFO: Processing pre-safe-import-module hook 'hook-wheel.py' from 'C:\\Users\\liyaz\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks\\pre_safe_import_module'
+85225 INFO: Setuptools: 'wheel' appears to be a setuptools-vendored copy - creating alias to 'setuptools._vendor.wheel'!
+86069 INFO: Processing standard module hook 'hook-setuptools._vendor.jaraco.text.py' from 'C:\\Users\\liyaz\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks'
+86074 INFO: Processing pre-safe-import-module hook 'hook-importlib_resources.py' from 'C:\\Users\\liyaz\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks\\pre_safe_import_module'
+86074 INFO: Processing pre-safe-import-module hook 'hook-jaraco.context.py' from 'C:\\Users\\liyaz\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks\\pre_safe_import_module'
+86074 INFO: Setuptools: 'jaraco.context' appears to be a setuptools-vendored copy - creating alias to 'setuptools._vendor.jaraco.context'!
+86119 INFO: Processing pre-safe-import-module hook 'hook-backports.tarfile.py' from 'C:\\Users\\liyaz\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks\\pre_safe_import_module'
+86119 INFO: Setuptools: 'backports.tarfile' appears to be a setuptools-vendored copy - creating alias to 'setuptools._vendor.backports.tarfile'!
+86362 INFO: Processing standard module hook 'hook-backports.py' from 'C:\\Users\\liyaz\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\stdhooks'
+86367 INFO: Processing pre-safe-import-module hook 'hook-platformdirs.py' from 'C:\\Users\\liyaz\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks\\pre_safe_import_module'
+86398 INFO: Processing standard module hook 'hook-platformdirs.py' from 'C:\\Users\\liyaz\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\stdhooks'
+89518 INFO: Processing standard module hook 'hook-pygments.py' from 'C:\\Users\\liyaz\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks'
+95335 INFO: Processing standard module hook 'hook-jinja2.py' from 'C:\\Users\\liyaz\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\stdhooks'
+97358 INFO: Processing standard module hook 'hook-PIL.SpiderImagePlugin.py' from 'C:\\Users\\liyaz\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks'
+109080 INFO: Processing standard module hook 'hook-_tkinter.py' from 'C:\\Users\\liyaz\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks'
+109160 INFO: Performing binary vs. data reclassification (2172 entries)
+127718 INFO: Looking for ctypes DLLs
+127807 INFO: Analyzing run-time hooks ...
+127833 INFO: Including run-time hook 'pyi_rth_inspect.py' from 'C:\\Users\\liyaz\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks'
+127839 INFO: Including run-time hook 'pyi_rth_pkgutil.py' from 'C:\\Users\\liyaz\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks'
+127846 INFO: Including run-time hook 'pyi_rth_multiprocessing.py' from 'C:\\Users\\liyaz\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks'
+127849 INFO: Including run-time hook 'pyi_rth_setuptools.py' from 'C:\\Users\\liyaz\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks'
+127871 INFO: Including run-time hook 'pyi_rth_pkgres.py' from 'C:\\Users\\liyaz\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks'
+127901 INFO: Including run-time hook 'pyi_rth__tkinter.py' from 'C:\\Users\\liyaz\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks'
+128095 INFO: Creating base_library.zip...
+128153 INFO: Looking for dynamic libraries
+C:\Users\liyaz\AppData\Local\Programs\Python\Python312\Lib\site-packages\PyInstaller\building\build_main.py:227: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  __import__(package)
+130676 INFO: Extra DLL search directories (AddDllDirectory): ['C:\\Users\\liyaz\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pandas.libs', 'C:\\Users\\liyaz\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy.libs', 'C:\\Users\\liyaz\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pyarrow.libs', 'C:\\Users\\liyaz\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\cv2\\../../x64/vc17/bin']
+130676 INFO: Extra DLL search directories (PATH): ['C:\\Users\\liyaz\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\cv2\\../../x64/vc17/bin']
+135389 INFO: Warnings written to C:\LJK SCANNER HYBRID\build\ljk_scanner\warn-ljk_scanner.txt
+135822 INFO: Graph cross-reference written to C:\LJK SCANNER HYBRID\build\ljk_scanner\xref-ljk_scanner.html
+136094 INFO: checking PYZ
+136094 INFO: Building PYZ because PYZ-00.toc is non existent
+136094 INFO: Building PYZ (ZlibArchive) C:\LJK SCANNER HYBRID\build\ljk_scanner\PYZ-00.pyz
+140370 INFO: Building PYZ (ZlibArchive) C:\LJK SCANNER HYBRID\build\ljk_scanner\PYZ-00.pyz completed successfully.
+140671 INFO: checking PKG
+140671 INFO: Building PKG because PKG-00.toc is non existent
+140671 INFO: Building PKG (CArchive) ljk_scanner.pkg
+216183 INFO: Building PKG (CArchive) ljk_scanner.pkg completed successfully.
+216306 INFO: Bootloader C:\Users\liyaz\AppData\Local\Programs\Python\Python312\Lib\site-packages\PyInstaller\bootloader\Windows-64bit-intel\runw.exe
+216306 INFO: checking EXE
+216306 INFO: Building EXE because EXE-00.toc is non existent
+216306 INFO: Building EXE from EXE-00.toc
+216306 INFO: Copying bootloader EXE to C:\LJK SCANNER HYBRID\dist\ljk_scanner.exe
+216466 INFO: Copying icon to EXE
+216546 INFO: Copying 0 resources to EXE
+216546 INFO: Embedding manifest in EXE
+216564 INFO: Appending PKG archive to EXE
+216759 INFO: Fixing EXE headers
+231885 INFO: Building EXE from EXE-00.toc completed successfully.
+231980 INFO: Build complete! The results are available in: C:\LJK SCANNER HYBRID\dist
